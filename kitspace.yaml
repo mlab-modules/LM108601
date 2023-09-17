@@ -1,0 +1,8 @@
+bom: hw/sch_pcb/LM108601.kicad_pcb
+color: white
+eda:
+  pcb: hw/sch_pcb/LM108601.kicad_pcb
+  type: kicad
+gerbers: hw/cam_profi/
+site: https://github.com/mlab-modules/LM108601
+summary: ' Small voltage stabilizer. Based on LM1086.'

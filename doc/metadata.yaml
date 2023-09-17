@@ -1,0 +1,31 @@
+description: ' Small voltage stabilizer. Based on LM1086.'
+github_branch: LM108601A
+github_description: ' Small voltage stabilizer. Based on LM1086.'
+github_repo: LM108601
+github_url: https://github.com/mlab-modules/LM108601
+homepage: false
+images:
+- doc/img/LM108601A_SMD_Bot_big.jpg
+- doc/img/LM108601A_SMD_Bot_small.jpg
+- doc/img/LM108601A_top_big.jpg
+- doc/img/LM108601A_top_small.jpg
+- doc/img/LM108601A_Bot_big.jpg
+- doc/img/LM108601A_SMD_top_big.jpg
+- doc/img/LM_small.jpg
+- doc/img/LM108601A_SMD_top_small.jpg
+- doc/img/LM108601A_Bot_small.jpg
+- doc/html/LM108601A_Files/image003.jpg
+- doc/html/LM108601A_Files/image008.jpg
+- doc/html/LM108601A_Files/image007.jpg
+- doc/html/LM108601A_Files/image009.jpg
+- doc/html/LM108601A_Files/image006.jpg
+- doc/html/LM108601A_Files/image005.jpg
+- doc/html/LM108601A_Files/image001.jpg
+- doc/html/LM108601A_Files/image004.jpg
+- doc/img/LM108601A_QRcode.png
+- doc/html/LM108601A_Files/image002.png
+mark: 50
+status: 0
+tags: []
+title: LM108601
+updated: '2023-09-17T11:31:15.254581+00:00'
